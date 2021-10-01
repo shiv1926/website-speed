@@ -18,3 +18,10 @@ https://technumero.com/keep-alive-test/
 
 use of picture/source tag instead of using direct image, with mulitple image sizes, : read this
 aviod excessive dom
+
+
+
+
+
+8. Don’t Combine CSS + JavaScript
+Smaller sites should usually combine CSS/JS while larger sites should not. According to WP Johnny, websites with a CSS/JS size of under 10KB should combine while over 10KB should not. He goes on to say that regarding TTFB, it’s all about starting sooner, not finishing sooner.
