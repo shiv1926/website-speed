@@ -13,3 +13,5 @@ https://web.dev/optimize-cls/?utm_source=lighthouse&utm_medium=devtools
 https://blog.logrocket.com/jank-free-page-loading-with-media-aspect-ratios/
 https://css-tricks.com/aspect-ratio-boxes/
 https://gtmetrix.com/use-explicit-width-and-height-on-image-elements.html
+
+https://www.bitcatcha.com

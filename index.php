@@ -20,5 +20,9 @@
 	<li><a href=""></a></li>
 	<li><a href="what-is-caching.php">What is caching</a></li>
 	<li><a href="database-optimization.php">Database Optimization</a></li>
+	https://www.bitcatcha.com
 </ul>
 <?php include('footer.php'); ?>
+
+
+https://www.freenom.com/en/index.html?lang=en : to get free domain
