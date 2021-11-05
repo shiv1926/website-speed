@@ -26,3 +26,6 @@
 
 
 https://www.freenom.com/en/index.html?lang=en : to get free domain
+
+
+https://www.giftofspeed.com/ : it is best website for speed optimization
