@@ -1,0 +1,1 @@
+https://web.dev/dom-size/?utm_source=lighthouse&utm_medium=unknown
