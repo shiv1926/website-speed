@@ -18,7 +18,7 @@
 			<li>https://www.giftofspeed.com/ : it is best website for speed optimization</li>
 			<li>https://www.bitcatcha.com</li>
 			<li>how to preload custom javascript code</li>
-			Enable leverage browsing cache
+			<li>Enable leverage browsing cache</li>
 		</ul>
 	</li>
 	<li><a href=""></a></li>
@@ -41,5 +41,6 @@
 			<li>server side caching techniques php</li>
 		</ul>
 	</li>
+	self hosted / file transfer protocol , how to create this and use for cdn
 </ul>
 <?php include('footer.php'); ?>
