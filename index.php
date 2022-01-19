@@ -17,7 +17,7 @@
 			<li>Chrome DevTools</li>
 			<li>https://www.giftofspeed.com/ : it is best website for speed optimization</li>
 			<li>https://www.bitcatcha.com</li>
-			<li>how to preload custom javascript code</li>
+			<li><a href="javascript-optimization.php">javascript optimization</li>
 			<li>Enable leverage browsing cache</li>
 		</ul>
 	</li>
