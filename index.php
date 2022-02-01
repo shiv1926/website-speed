@@ -8,6 +8,23 @@
 	</li>
 	<li>
 			<h4>Website Performance Testing Tools</h4>
+		<h4>CSS Optimization</h4>
+		<ul>
+			<li><a href="css-optimization.php">What is web site performance</a></li>
+		</ul>
+	</li>
+	<li>
+		<h4>Sub domain as CDN</h4>
+		<ul>
+			<li>https://www.semrush.com/blog/must-know-seo-practices-for-content-delivery-networks-cdns/</li>
+			<li><a href="cdn.php">CDN</a></li>
+			<li><a href="cookie-less.php">cookie-less</a></li>
+			<li><a href="sub-domain-as-cdn.php">Sub domain as CDN</a></li>
+		</ul>
+	</li>
+	
+	<li>
+		<h4>Website Performance Testing Tools</h4>
 		<ul>
 			<li>Google page insighsts</li>
 			<li>Pingdom Tools</li>

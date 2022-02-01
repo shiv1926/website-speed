@@ -1,0 +1,9 @@
+<p>A straightforward post with some perf data from Tomas Pustelnik. It’s a good reminder that CSS is a crucial part of thinking web performance, and for a huge reason:</p>
+<p>Any time [the browser] encounters any external resource (CSS, JS, images, etc.) it will assign it a download priority and initiate its download. Priorities are important because some resources are critical to render a page (eg. main stylesheet and JS files) while others may be less important (like images or stylesheets for other media types).</p>
+<p>In the case of CSS, this priority is usually high because stylesheets are necessary to create CSSOM (CSS Object Model). To render a webpage browser has to construct both DOM and CSSOM.</p>
+<p>That’s why CSS is often referred to as a “blocking” resource. That’s desirable to some degree: we wouldn’t want to see flash-of-unstyled-websites. But we get real perf gains when we make CSS smaller because it’s quicker to download, parse, and apply.</p>
+<p>Aside from the techniques in the post, I’m sure advocates of atomic/all-utility CSS would love it pointed out that the stylesheets from those approaches are generally way smaller, and thus more performant. CSS-in-JS approaches will sometimes bundle styles into scripts so, to be fair, you get a little perf gain at the top by not loading the CSS there, but a perf loss from increasing the JavaScript bundle size in the process. (I haven’t seen a study with a fair comparison though, so I don’t know if it’s a wash or what.)</p>
+<p>https://pustelto.com/blog/optimizing-css-for-faster-page-loads/</p>
+
+
+<p>how to load css files asynchronously : https://www.filamentgroup.com/lab/load-css-simpler/ , and search many other tutorials</p>
