@@ -22,7 +22,8 @@
 			<li><a href="sub-domain-as-cdn.php">Sub domain as CDN</a></li>
 		</ul>
 	</li>
-	
+	https://www.corewebvitals.io/
+	<p>https://www.sitelocity.com/critical-path-css-generator</p>
 	<li>
 		<h4>Website Performance Testing Tools</h4>
 		<ul>
@@ -40,7 +41,7 @@
 	</li>
 	<li><a href=""></a></li>
 	<li><a href="what-is-caching.php">What is caching</a></li>
-	dns-prefech
+dns-prefech
 async defer
 preloading
 what is cls
@@ -60,8 +61,15 @@ https://technumero.com/keep-alive-test/
 use of picture/source tag instead of using direct image, with mulitple image sizes, : read this
 aviod excessive dom
 
+First Contentful Paint (FCP)
 
-<script defer src="https://javascript.info/article/script-async-defer/long.js?speed=1"></script> , why add ?speed=1 
+First Input Delay (FID)
+
+Largest Contentful Paint (LCP)
+
+
+Cumulative Layout Shift (CLS)
+	<script defer src="https://javascript.info/article/script-async-defer/long.js?speed=1"></script> , why add ?speed=1 
 
 	<li><a href="database-optimization.php">Database Optimization</a></li>
 	<li><a href="https://www.freenom.com/en/index.html?lang=en">to get free domain</a></li>

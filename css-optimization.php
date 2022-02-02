@@ -4,6 +4,7 @@
 <p>That’s why CSS is often referred to as a “blocking” resource. That’s desirable to some degree: we wouldn’t want to see flash-of-unstyled-websites. But we get real perf gains when we make CSS smaller because it’s quicker to download, parse, and apply.</p>
 <p>Aside from the techniques in the post, I’m sure advocates of atomic/all-utility CSS would love it pointed out that the stylesheets from those approaches are generally way smaller, and thus more performant. CSS-in-JS approaches will sometimes bundle styles into scripts so, to be fair, you get a little perf gain at the top by not loading the CSS there, but a perf loss from increasing the JavaScript bundle size in the process. (I haven’t seen a study with a fair comparison though, so I don’t know if it’s a wash or what.)</p>
 <p>https://pustelto.com/blog/optimizing-css-for-faster-page-loads/</p>
-
-
+<p>https://propelrr.com/blog/page-speed-optimization</p>
+<p>https://kinsta.com/blog/optimize-css/</p>
+<p>https://www.sitepoint.com/optimizing-css-performance/</p>
 <p>how to load css files asynchronously : https://www.filamentgroup.com/lab/load-css-simpler/ , and search many other tutorials</p>
