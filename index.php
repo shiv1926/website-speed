@@ -91,5 +91,9 @@ Cumulative Layout Shift (CLS)
 	</li>
 	<div>self hosted / file transfer protocol , how to create this and use for cdn</div>
 	<div>https://www.browserling.com/ : this website test the website is working or not</div>
+
+	<li>https://www.webpagetest.org : good website for speed evalution</li>
+	<li>https://product.webpagetest.org/core-web-vitals : good guide</li>
+
 </ul>
 <?php include('footer.php'); ?>
