@@ -14,6 +14,16 @@
 		</ul>
 	</li>
 	<li>
+			<h4>What is domain and their types</h4>
+		<ul>
+			<li><a href="domain-name.php">What is Domain and their types</a></li>
+			<li><a href="domain-name.php">What is DNS</a></li>
+			what are ssl and how it works internally, 
+			what is vps hosting :
+		</ul>
+	</li>
+
+	<li>
 		<h4>Sub domain as CDN</h4>
 		<ul>
 			<li>https://www.semrush.com/blog/must-know-seo-practices-for-content-delivery-networks-cdns/</li>
@@ -38,6 +48,7 @@
 			<li><a href="javascript-optimization.php">javascript optimization</li>
 			<li>Enable leverage browsing cache</li>
 			<li>https://www.browseo.net/</li>
+			<li>what is vpn</li>
 		</ul>
 	</li>
 	<li><a href=""></a></li>
