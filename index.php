@@ -37,6 +37,7 @@
 			<li>https://www.bitcatcha.com</li>
 			<li><a href="javascript-optimization.php">javascript optimization</li>
 			<li>Enable leverage browsing cache</li>
+			<li>https://www.browseo.net/</li>
 		</ul>
 	</li>
 	<li><a href=""></a></li>
