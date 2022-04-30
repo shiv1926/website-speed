@@ -7,7 +7,7 @@
 		</ul>
 	</li>
 	<li>
-			<h4>Website Performance Testing Tools</h4>
+		<h4>Website Performance Testing Tools</h4>
 		<h4>CSS Optimization</h4>
 		<ul>
 			<li><a href="css-optimization.php">What is web site performance</a></li>
@@ -18,6 +18,8 @@
 		<ul>
 			<li><a href="domain-name.php">What is Domain and their types</a></li>
 			<li><a href="domain-name.php">What is DNS</a></li>
+			<li><a href="domain-name.php">What is TLD, Gtld, cctld etc</a></li>
+			<div>https://www.dottld.net/ very good for basic level</div>
 			what are ssl and how it works internally, 
 			what is vps hosting :
 		</ul>
