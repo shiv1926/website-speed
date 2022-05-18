@@ -34,9 +34,9 @@
 			<li><a href="sub-domain-as-cdn.php">Sub domain as CDN</a></li>
 		</ul>
 	</li>
-	https://www.corewebvitals.io/
-	<p>https://www.sitelocity.com/critical-path-css-generator</p>
 	<li>
+		<p>https://www.corewebvitals.io/</p>
+		<p>https://www.sitelocity.com/critical-path-css-generator</p>
 		<h4>Website Performance Testing Tools</h4>
 		<ul>
 			<li>Google page insighsts</li>
@@ -53,38 +53,28 @@
 			<li>what is vpn</li>
 		</ul>
 	</li>
-	<li><a href=""></a></li>
 	<li><a href="what-is-caching.php">What is caching</a></li>
-dns-prefech
-async defer
-preloading
-what is cls
-
-lazy loading, how to lazy load images in background, 
-what is cdn and how to use cdn
-prefetch, preconnect, preload, crossorigin
-AMP pages important
-
-CSS ASPECT RATIO BOX : https://css-tricks.com/aspect-ratio-boxes/
-
-preloader / website preloader / website loader
-
-https://technumero.com/check-gzip-compression/
-https://technumero.com/keep-alive-test/
-
-use of picture/source tag instead of using direct image, with mulitple image sizes, : read this
-aviod excessive dom
-
-First Contentful Paint (FCP)
-
-First Input Delay (FID)
-
-Largest Contentful Paint (LCP)
-
-
-Cumulative Layout Shift (CLS)
-	<script defer src="https://javascript.info/article/script-async-defer/long.js?speed=1"></script> , why add ?speed=1 
-
+	<li>
+		<p>dns-prefech</p>
+		<p>async defer</p>
+		<p>preloading</p>
+		<p>what is cls</p>
+		<p>lazy loading, how to lazy load images in background, </p>
+		<p>what is cdn and how to use cdn</p>
+		<p>prefetch, preconnect, preload, crossorigin</p>
+		<p>AMP pages important</p>
+		<p>CSS ASPECT RATIO BOX : https://css-tricks.com/aspect-ratio-boxes/</p>
+		<p>preloader / website preloader / website loader</p>
+		<p>https://technumero.com/check-gzip-compression/</p>
+		<p>https://technumero.com/keep-alive-test/</p>
+		<p>use of picture/source tag instead of using direct image, with mulitple image sizes, : read this</p>
+		<p>aviod excessive dom</p>
+		<p>First Contentful Paint (FCP)</p>
+		<p>First Input Delay (FID)</p>
+		<p>Largest Contentful Paint (LCP)</p>
+		<p>Cumulative Layout Shift (CLS)</p>
+		<p><script defer src="https://javascript.info/article/script-async-defer/long.js?speed=1"></script> , why add ?speed=1 </p>
+	</li>
 	<li><a href="database-optimization.php">Database Optimization</a></li>
 	<li><a href="https://www.freenom.com/en/index.html?lang=en">to get free domain</a></li>
 	<li><a href="enable-text-compression.php">Enable text compression</a></li>
@@ -103,9 +93,8 @@ Cumulative Layout Shift (CLS)
 			<li>server side caching techniques php</li>
 		</ul>
 	</li>
-	<div>self hosted / file transfer protocol , how to create this and use for cdn</div>
-	<div>https://www.browserling.com/ : this website test the website is working or not</div>
-
+	<li>self hosted / file transfer protocol , how to create this and use for cdn</li>
+	<li>https://www.browserling.com/ : this website test the website is working or not</li>
 	<li>https://www.webpagetest.org : good website for speed evalution</li>
 	<li>https://product.webpagetest.org/core-web-vitals : good guide</li>
 
