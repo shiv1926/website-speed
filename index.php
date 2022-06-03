@@ -1,6 +1,12 @@
 <?php include('header.php'); ?>
 <ul class="index">
 	<li>
+		<h4>Domain</h4>
+		<ul>
+			<li><a href="">What is domain</a></li>
+		</ul>
+	</li>
+	<li>
 		<h4>Basics</h4>
 		<ul>
 			<li><a href="">What is web site performance</a></li>
